@@ -1,0 +1,2 @@
+- Alexis de Lattre \<<alexis.delattre@akretion.com>\>
+- Justine Blanchet \<<justine.blanchet@omydoo.fr>\> (Omydoo — port v19.0)
